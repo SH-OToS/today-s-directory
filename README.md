@@ -1,5 +1,5 @@
 # today-s-directory
-This app is Add directory in simiar directory.
+This app is for add directory in simiar directory.
 
 It works with node.js.
 
