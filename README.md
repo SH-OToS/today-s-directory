@@ -12,3 +12,9 @@ node mkdir.js
 ```
 
 That's all!!
+
+but...
+
+```
+date +%Y-%m-%d | xargs mkdir
+```
